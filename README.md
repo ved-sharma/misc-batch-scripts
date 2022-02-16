@@ -8,5 +8,7 @@
 - Without the /force parameter on line 27, sometimes see the error:
 <i>The computer did not resync because the required time was change to big</i>
 
-Nice website for Batch script tutorial: 
-https://www.tutorialspoint.com/batch_script/index.htm
+### Batch script resources:  
+https://www.tutorialspoint.com/batch_script/index.htm  
+https://www.howtogeek.com/263177/how-to-write-a-batch-script-on-windows/  
+
